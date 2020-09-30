@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:icon="@drawable/tickets"
+            android:title="@string/prodazha_biletov" />
+        <item
+            android:icon="@drawable/driver"
+            android:title="@string/spisok_admin" />
+        <item
+            android:icon="@drawable/bus"
+            android:title="@string/avtobusy" />
+        <item
+            android:icon="@drawable/statistics"
+            android:title="@string/statistica" />
+        <item
+            android:icon="@drawable/passanger"
+            android:title="@string/passangeres" />
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/calendar"
+            android:title="@string/raspisanie" />
+        <item
+            android:icon="@drawable/books"
+            android:title="@string/history" />
+        <item
+            android:icon="@drawable/settings"
+            android:title="@string/settings" />
+<!--        <item-->
+<!--            android:id="@+id/nav_gallery"-->
+<!--            android:icon="@drawable/ic_menu_gallery"-->
+<!--            android:title="@string/menu_gallery" />-->
+<!--        <item-->
+<!--            android:id="@+id/nav_slideshow"-->
+<!--            android:icon="@drawable/ic_menu_slideshow"-->
+<!--            android:title="@string/menu_slideshow" />-->
+    </group>
+</menu>

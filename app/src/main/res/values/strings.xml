@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">BusFleets</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Dina Taskara</string>
+    <string name="nav_header_subtitle">Test Company</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Расписание</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="raspisanie">Расписание</string>
+    <string name="prodazha_biletov">Продажа билетов</string>
+    <string name="spisok_admin">Список администраторов</string>
+    <string name="avtobusy">Автобусы</string>
+    <string name="statistica">Статистика</string>
+    <string name="passangeres">Пассажиры</string>
+    <string name="history">История</string>
+    <string name="settings">Настройки</string>
+    <string name="add_reis">Добавить рейс</string>
+    <string name="leave">Отправление:</string>
+    <string name="arrive">Прибытие:</string>
+    <string name="deletr_reis">Удалить рейс</string>
+</resources>
